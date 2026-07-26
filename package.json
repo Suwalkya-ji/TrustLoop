@@ -4,6 +4,7 @@
   "private": true,
   "description": "Testimonial Platform - SDE-1 Take Home Assignment",
   "scripts": {
+    "build": "npm run build --prefix client",
     "dev:server": "npm run dev --prefix server",
     "dev:client": "npm run dev --prefix client"
   }

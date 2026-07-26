@@ -1,0 +1,10 @@
+{
+  "name": "testimonial-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Testimonial Platform - SDE-1 Take Home Assignment",
+  "scripts": {
+    "dev:server": "npm run dev --prefix server",
+    "dev:client": "npm run dev --prefix client"
+  }
+}
